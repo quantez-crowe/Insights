@@ -1,0 +1,20 @@
+# Insights
+Insights from various projects.
+
+Which states had the highest number of wildlife strikes? What were costs associated with these strikes?
+
+The top 5 statess with the most number of wildlife strikes were:
+1. California, $29.7M
+2. Texas, $7.1M
+3. Florida, $26.5M
+4. New York, $50.3M
+5. Pennsylvania, $8.3M
+   
+![image](https://github.com/user-attachments/assets/969aea91-6ca1-4b31-88bd-04d259778407)
+
+Based upon the state that incurred the highest costs associated with wildlife strikes, what additional insights can you provide?
+
+New York was the state that incurred the highest costs associated with damages due to wildlife strikes ($50.3M). After including information on the type of aircraft in our analysis, we see that roughly 98% (2,107) strikes occured between wildlife and airplanes. Of airplanes, 1,862 (88%) strikes were 2-engine planes, which cost New York a total of $47.3M in damages, or roughly 94% of the total cost.
+
+
+
