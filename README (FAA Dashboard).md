@@ -1,7 +1,7 @@
 # Insights
 Insights from various projects.
 
-###Question 1: Which states had the highest number of wildlife strikes? What were costs associated with these strikes?
+### Question 1: Which states had the highest number of wildlife strikes? What were costs associated with these strikes?
 
 The top 5 states with the most number of wildlife strikes were:
 1. California, $29.7M
