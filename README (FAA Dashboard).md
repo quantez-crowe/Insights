@@ -1,5 +1,4 @@
-# Insights
-Insights from various projects.
+# Insights from my Tableau dashboard [FAA Wildlife Strikes, 2000-2015](https://public.tableau.com/views/FAAWildlifeStrikes2015_17460449973190/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Question 1: Which states had the highest number of wildlife strikes? What were costs associated with these strikes?
 
