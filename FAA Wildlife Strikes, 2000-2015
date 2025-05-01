@@ -1,7 +1,7 @@
 # Insights
 Insights from various projects.
 
-Which states had the highest number of wildlife strikes? What were costs associated with these strikes?
+Question 1: Which states had the highest number of wildlife strikes? What were costs associated with these strikes?
 
 The top 5 statess with the most number of wildlife strikes were:
 1. California, $29.7M
@@ -17,4 +17,18 @@ Based upon the state that incurred the highest costs associated with wildlife st
 New York was the state that incurred the highest costs associated with damages due to wildlife strikes ($50.3M). After including information on the type of aircraft in our analysis, we see that roughly 98% (2,107) strikes occured between wildlife and airplanes. Of airplanes, 1,862 (88%) strikes were 2-engine planes, which cost New York a total of $47.3M in damages, or roughly 94% of the total cost.
 
 
+Question 2: What animal species is responsible for the most strikes? What was the average damage associated with each strike?
 
+Gulls, Terns, Sandpipers, Plovers, and Skimmers were responsible for the most number of strikes (4,797), which cost roughly $5,356 per strike. However, Ducks, geese, swans, and waterfowls accumulated the most damages associated with strikes at $142.1M- more than 5x the damages of the former group with less than half the number of strikes (1,738), and an average cost per strike of $81,779. Most interestingly, Deer, Elk, and Moose have the largest cost per strike figure of a whopping $130,099. My best guess is due to the sheer size of these animals, they would likely cause the most extensive repairs, damaging critical components versus smaller avian species that are likely sucked into engine components at best. 
+
+
+Question 3: Is there anything of interest that you discovered during the analysis that warrants additional research/investigation?
+
+In 2009, there were 2,218 reported wildlife strikes with an estimated cost of $66.7M. However, in 2014 there were 3,288 strikes with a total cost of only $18.3M. 
+
+
+
+Question 4:
+
+
+Question 5:
