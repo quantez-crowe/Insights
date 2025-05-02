@@ -5,11 +5,11 @@
 * Across all regions, Jenna Caffery had the largest profit margin (47.5%).
 * In the Central region, Erin Creighton had the largest profit margin (50%).
 * In the East region, Russel Applegate, Linda Cazamias, Jason Klamczynski, & Charles Sheldon had the largest profit margins (T50%).
-* In the South region, xx had the largest profit margin (xx%).
-* In the West region, xx had the largest profit margin (xx%).
+* In the South region, Anthony Gaverick had the largest profit margin (50%).
+* In the West region, Ross DeVincentis and Larry Blacks had the largest profit margins (50%).
 
 
-### Question 2: XX
+### Question 2: 
 
 
 ### Question 3: XX
