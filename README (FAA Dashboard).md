@@ -44,3 +44,5 @@ Based on the data, the most strikes occur between July and October, which accoun
 
 
 Between 2000 and 2015 there were a total of 97 wildlife strikes with helicopters, which represents less than half a percent of all strikes (0.34%). The majority of these strikes occurred in California (18), which amassed roughly $52,609 in damages. However, the state with the largest total cost associated with wildlife strikes during this time period was Utah, which amassed roughly $547K in damages with only 3 strikes ($182K cost per strike). What's interesting, is that a single helicopter crash accounted for 98% of damages ($537K) that involved grebes- a type of waterfowl- and decommissioned the aircraft for over 60 days (62) in 2011.
+
+**I hereby attest that all the work presented here is entirely my own, and no unauthorized assistance was used in its completion.**
