@@ -70,6 +70,6 @@ Pokémon strength is determined by the sum of its individual attributes (i.e., A
 
 ![image](https://github.com/user-attachments/assets/ba988be7-4013-4091-beb6-38879fe45f6d)
 
-**I hereby confirm that all the work presented here is entirely my own, and no unauthorized assistance was used in its completion.**
+**I hereby attest that all the work presented here is entirely my own, and no unauthorized assistance was used in its completion.**
 
 
