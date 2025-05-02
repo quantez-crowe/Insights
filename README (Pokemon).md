@@ -19,6 +19,7 @@ In this dataset, we had the following fields:
 ### Question 1: Which type is the most/least common? How many pokemon are associated with each?
 
 Pokemon can be either single or dual type (i.e., two different types are associated with the Pokemon). For example, the fan-favorite Pokemon Pikachu is a single-type (Electric), whereas Charizard is a dual-type (Fire-Flying). Across 6 generations, the most common Pokemon type is Water (120). The least common is Fiary (35). This was solved via an array using COUNTIF. After combining columns C & D via the CONCAT function in Column F, I used the COUNTIF function to return instances where each type occured in Column F. This was necessary, as a standard pivot table won't recognize that a type may appear in either column: 
+
 ![image](https://github.com/user-attachments/assets/2366b372-204f-41d7-acb0-58e2c35feecc)
 
 
@@ -30,6 +31,7 @@ Pokemon strength is determined by the sum of its individual attributes (i.e., At
   2. Kyurem- Black, (700)
   3. Kyurem- White, (700)
   4. Palkia, (680) (there are 12 other Pokemon with a stat total of 680)
+
 ![image](https://github.com/user-attachments/assets/ba988be7-4013-4091-beb6-38879fe45f6d)
 
 
