@@ -1,6 +1,11 @@
 # Insights from my Tableau dashboard [Superstore Sales Dashboard]([XX](https://public.tableau.com/views/SuperStoreDataProject_17441375851880/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 
+
+![image](https://github.com/user-attachments/assets/f9eb3bb3-0d9e-418e-b018-63c06415d215)
+
+
+
 ### Question 1: Which customers had the highest profit margins in their region? 
 * Across all regions, Jenna Caffery had the largest profit margin (47.5%).
 * In the Central region, Erin Creighton had the largest profit margin (50%).
