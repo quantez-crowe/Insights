@@ -52,7 +52,22 @@
 * Jenna Caffey had the longest average shipping time of 7 days.
 
 
-### Question 5: XX
+### Question 5: Which states had the highest/lowest profits, by region?
+* Central: High: Michigan; Low: Texas
+![image](https://github.com/user-attachments/assets/ba348494-c405-41c8-9147-0cbae1f036af)
+
+ 
+* East: High: New York; Low: Ohio
+![image](https://github.com/user-attachments/assets/2811a0b1-e911-4adc-9c6a-13be720fceca)
+
+  
+* South: High: Virginia; Low: North Carolina
+![image](https://github.com/user-attachments/assets/a75066d0-3e5a-448e-a9eb-3f2a8bdce6ed)
+
+  
+* West: High: California; Low: Colorado
+![image](https://github.com/user-attachments/assets/afe418a4-6d30-4063-9ddc-883ea77bd64b)
+
 
 
 **I hereby attest that all the work presented here is entirely my own, and no unauthorized assistance was used in its completion.**
