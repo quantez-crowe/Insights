@@ -1,6 +1,10 @@
 # Insights from my Excel project [Who's That Pokémon!](xx) 
 
 
+
+![image](https://github.com/user-attachments/assets/4289adbe-d8c3-4977-b823-bc667817a754)
+
+
 With this project, I wanted to try my hand at making a tool that compares up to two Pokemon via user search. With this tool, a user can select which Pokemon they would like to compare across 6 generations of Pokémon. This was a fun project, as I was able to use a variety of Excel functions and features (e.g., XLOOKUP, INDIRECT, IMAGE, data validation, defined names). I was also able to incorporate a radar chart, which is a feature of some games that allows the trainer to compare the various attributes of the Pokémon.
 
 In this dataset, we had the following fields:
