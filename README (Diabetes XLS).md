@@ -21,7 +21,8 @@
    ![image](https://github.com/user-attachments/assets/0e09d0da-4104-486d-9b92-305f06e97880)
 
 (Result)
-   ![image](https://github.com/user-attachments/assets/0a97a0bb-b398-4420-b45f-bf58b801e387)
+
+![image](https://github.com/user-attachments/assets/0a97a0bb-b398-4420-b45f-bf58b801e387)
 
 
 
@@ -57,13 +58,3 @@ The final output:
 ![image](https://github.com/user-attachments/assets/da29b91c-0271-4b6b-9d68-61421787d914)
 
 
-
-
-
-
-
-
-
-
-
-### Question 5: 
