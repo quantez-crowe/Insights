@@ -28,7 +28,7 @@
 
 ### Question 4: Use a formula to classify the three results for cholesterol (total, HDL, LDL) into a single string.
 
-1. First, I researched cholesterol levels and learned the cutoffs for each reading. I used data from the [Cleveland Clinic]([xx](https://my.clevelandclinic.org/health/articles/11920-cholesterol-numbers-what-do-they-mean)) to guide me:
+1. First, I researched cholesterol levels and learned the cutoffs for each reading. I used data from the [Cleveland Clinic](https://my.clevelandclinic.org/health/articles/11920-cholesterol-numbers-what-do-they-mean) to guide me:
 
 ![image](https://github.com/user-attachments/assets/2d720d41-dc4c-45f3-a13c-68912776cc68)
 
